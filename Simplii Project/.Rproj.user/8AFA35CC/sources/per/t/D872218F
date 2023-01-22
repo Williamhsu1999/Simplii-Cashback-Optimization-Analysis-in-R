@@ -1,25 +1,26 @@
 {
-    "id": "157D6398",
-    "path": "~/GitHub/Simplii Project/Simplii Project.R",
+    "id": "D872218F",
+    "path": "~/GitHub/Simplii-Cashback-Optimization-Analysis-in-R/Simplii Project/Simplii Project.R",
     "project_path": "Simplii Project.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3917943050",
     "contents": "",
     "dirty": false,
-    "created": 1674120415537.0,
+    "created": 1674121332083.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "tempName": "Untitled1",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "6,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1674120443,
+    "lastKnownWriteTime": 1674122323,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1674120443204,
+    "last_content_update": 1674122323304,
     "read_only": false,
     "read_only_alternatives": []
 }
