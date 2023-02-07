@@ -1,2 +1,2 @@
-# Simplii Cashback Optimization Analysis in R
+# Simplii Cashback Optimization Tutorial in R
  
